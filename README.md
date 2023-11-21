@@ -37,3 +37,15 @@
     
     - import Icon from 'react-native-vector-icons/FontAwesome';
     - <Icon name="rocket" size={30} color="#900" />
+
+---------- React Native Video ---------->
+
+    Documentation: https://github.com/react-native-video/react-native-video
+    Website: https://reactnativeexample.com/a-react-native-video-player-with-a-few-controls/
+    Installation: npm install react-native-video react-native-vector-icons
+    Types: npm install --save-dev @types/react-native-video
+    
+    NB: Don't forget to run npx pod-install ios after installing the package
+        In case you run into a problem, check this website
+        https://github.com/react-native-video/react-native-video/issues/2468
+
